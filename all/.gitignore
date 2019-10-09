@@ -1,0 +1,12 @@
+*~
+*#*
+.DS*
+*.pyc
+*.pyd
+build/
+dist/
+doc/_build/
+*.egg
+.eggs/
+winkerberos.egg-info/
+.idea
